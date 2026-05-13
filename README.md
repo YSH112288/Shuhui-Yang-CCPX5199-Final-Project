@@ -13,14 +13,14 @@ Please unzip the dataset, import all the required packages, and run the code in 
 
 ## Dependencies or packages needed
 
-- python 3.9.12
-- numpy 1.24.3
-- pandas 2.3.3
-- matplotlib 3.9.4
-- scipy 1.7.3
-- statsmodels 0.13.2
-- scikit-learn 1.1.3
-- seaborn 0.13.2
+- python 3.9
+- numpy
+- pandas
+- matplotlib
+- scipy
+- statsmodels
+- scikit-learn
+- seaborn
 
 ## Main Question
 
