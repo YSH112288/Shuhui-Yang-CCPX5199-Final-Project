@@ -70,7 +70,7 @@ The final part of the analysis looks more closely at stress and sleep. Both vari
 
 A two-way ANOVA shows that stress level has a significant relationship with anxiety. Sleep level also has a significant relationship with anxiety. The interaction between stress and sleep is significant as well.
 
-<img width="636" height="89" alt="Screenshot 2026-05-12 at 9 59 21 PM" src="https://github.com/user-attachments/assets/571f3fe0-5ddf-4ce7-94a2-92d1b19b546a" />
+<img width="636" height="94" alt="Screenshot 2026-05-12 at 10 03 02 PM" src="https://github.com/user-attachments/assets/495d3433-6640-499e-a873-c379eb3e3b95" />
 
 This means the relationship between stress and anxiety changes depending on sleep level. When stress is low, sleep level does not make as large a difference. When stress is high, people with less sleep tend to have much higher anxiety than people with more sleep.
 
