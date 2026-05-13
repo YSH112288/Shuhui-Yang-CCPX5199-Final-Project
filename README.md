@@ -7,6 +7,21 @@ This project looks at factors that are associated with anxiety levels in a socia
 
 The outcome variable is anxiety level, measured on a 1 to 10 scale. The dataset also includes age, gender, occupation, sleep, physical activity, caffeine intake, alcohol use, smoking, stress level, heart rate, breathing rate, sweating, dizziness, medication, therapy sessions, recent major life events, diet quality, and family history of anxiety.
 
+## Instructions on how to run this code
+
+Please import all the required packages and run the code in order.
+
+## Dependencies or packages needed
+
+- python 3.9.12
+- numpy 1.24.3
+- pandas 2.3.3
+- matplotlib 3.9.4
+- scipy 1.7.3
+- statsmodels 0.13.2
+- scikit-learn 1.1.3
+- seaborn 0.13.2
+
 ## Main Question
 
 The main research question is whether certain factors are associated with social anxiety. The analysis begins with occupation, then moves into a broader model that includes many possible predictors, and finally looks more closely at stress and sleep together.
